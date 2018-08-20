@@ -1,2 +1,3 @@
 # FibonacciExamples
-A series of C++ Fibonacci examples under various conditionals
+Series of C++ Fibonacci examples under various conditionals
+
